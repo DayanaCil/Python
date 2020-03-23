@@ -1,0 +1,13 @@
+<#
+Write a Python program to convert temperatures to and from celsius, fahrenheit. Go to the editor
+[ Formula : c/5 = f-32/9 [ where c = temperature in celsius and f = temperature in fahrenheit ]
+Ask the user to input the value with NumberF or NumberC
+F=(X*1.8)+32
+C=(X-32)*.55
+
+Hints:
+Use string slicing
+Use format typing
+if else block to tell us if they are in cold or hot or balanced climate place
+
+#>
