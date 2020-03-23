@@ -17,9 +17,20 @@ print(f" \"Hi {username}, your reverse is {username[::-1]} 1st letter is {userna
 name= "KiranDayana"
 name.replace('K', 'D')
 print(f"{name.replace('K', 'D')}")
+
 # 4
 # ask for users year of birth and print their age
 
 birthdate =int(input("what is your year of birth?"))
 print(f"My age is {2020-(birthdate)}")
 
+# Recap 3
+# create a list
+
+cookiedough = [flour,sugar,eggs, butter, vanillapaste,chocolate]
+
+# # copy a list
+# # create a 3 dimensional list
+# # of family->person of family->name,age,hobbies->x,y,z,sex
+# #
+# # show the list methods - Addition-3 and removal-3
